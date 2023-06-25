@@ -10,4 +10,5 @@
 | 🖌️ style:  | I was probably feeling something out of place about a color or font, and then I've changed it.  |
 | 📚 study: | I'm not sure if this oficially exists, but I use this to upload my study notes.  |
 | 💎 update: | I use this special semantic commit to update my profile README infos. |
+| ❌ delete: | This one is used when I delete part of or a full project from a repository. |
 
