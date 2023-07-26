@@ -1,1 +1,1 @@
-![README](assets/README.jpg)
+![README](assets/README.png)
